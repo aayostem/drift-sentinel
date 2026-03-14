@@ -31,7 +31,7 @@
 
 ## The Problem
 
-Production ML models silently degrade. Input distributions shift, relationships between features and targets change, and model accuracy erodes — often for days before anyone notices. Existing monitoring tools surface the alert. Then a human has to investigate, decide what to do, execute a fix, and verify it worked.
+Production Infrastructure silently degrade. Input distributions shift, relationships between features and targets change, and model accuracy erodes — often for days before anyone notices. Existing monitoring tools surface the alert. Then a human has to investigate, decide what to do, execute a fix, and verify it worked.
 
 **Drift Sentinel closes that loop.** It detects drift in real-time, performs automated root cause analysis across correlated signals, executes safe remediation actions, and verifies recovery — with a full audit trail for SOC2 compliance.
 
